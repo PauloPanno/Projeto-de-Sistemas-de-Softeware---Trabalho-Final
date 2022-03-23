@@ -52,11 +52,11 @@ public class NaoAutorizadoView extends javax.swing.JInternalFrame {
         return btnFechar;
     }
 
-    public JLabel getLblAguarde() {
+    public JLabel getLblAguarde(JLabel lblAguarde) {
         return lblAguarde;
     }
 
-    public JLabel getLblIcone() {
+    public JLabel getLblIcone(JLabel lblIcone) {
         return lblIcone;
     }
 
